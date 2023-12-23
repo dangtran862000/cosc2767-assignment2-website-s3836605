@@ -36,7 +36,7 @@
       <br>
       <span class="badge badge-secondary">Your student ID (sID): s3836605</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible): IT</span>
+      <span class="badge badge-success">Your Major (and Minor if possible): Bachelor of Information Technology</span>
       <br>
       <span class="badge badge-danger">Your Hobby: Play Piano, Photography</span>
       <br>
