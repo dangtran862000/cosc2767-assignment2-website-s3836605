@@ -31,7 +31,7 @@
 
 
       <!-- You only need to change these information, starts here! -->
-      <p>Here is the information you need to change: (Updated 20:33PM)</p>
+      <p>Here is the information you need to change: (Updated 20:38PM)</p>
       <span class="badge badge-primary">Your name: La Tran Hai Dang</span>
       <br>
       <span class="badge badge-secondary">Your student ID (sID): s3836605</span>
