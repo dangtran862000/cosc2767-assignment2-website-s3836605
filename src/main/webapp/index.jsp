@@ -31,16 +31,16 @@
 
 
       <!-- You only need to change these information, starts here! -->
-      <p>Here is the information you need to change</p>
-      <span class="badge badge-primary">Your name</span>
+      <p>Here is the information you need to change: (UPDATED 22:39PM)</p>
+      <span class="badge badge-primary">Your name: La Tran Hai Dang</span>
       <br>
-      <span class="badge badge-secondary">Your student ID (sID)</span>
+      <span class="badge badge-secondary">Your student ID (sID): s3836605</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible)</span>
+      <span class="badge badge-success">Your Major (and Minor if possible): Bachelor of Information Technology</span>
       <br>
       <span class="badge badge-danger">Your Hobby: Play Piano, Photography</span>
       <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language</span>
+      <span class="badge badge-warning">Your Favouritate Programming Language: Python, HTML, CSS</span>
       <!-- You only need to change these information, ends here! -->
       
 
